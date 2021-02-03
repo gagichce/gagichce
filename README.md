@@ -1,4 +1,4 @@
-### Hi there 👋
+### What's your entropy tolerance? 🚀 👽
 
 <!--
 **gagichce/gagichce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
